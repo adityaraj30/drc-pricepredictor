@@ -1,4 +1,4 @@
-# Graph Network Analysis
+# Machine Learning model for the prediction of food prices in the Democratic Republic Of Congo
 
 
  Link to the dataset - https://doi.org/10.48529/g4rg-fz09)
